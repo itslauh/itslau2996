@@ -3,11 +3,7 @@
   - Netherlands
   - 2 years till software development HBO
   - always bored w/o motivation to do things
-- 👀 I’m interested in:
-    - Tech from movies like iron man etc
-      - Trying to recreate it irl with a school project
-      - why is this red?
-- 🌱 I’m currently learning all languages at once, greatest idea ikr
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me:
     - Discord (Itsme#3979)
     - Thats about it tho lmao
