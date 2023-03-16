@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itslau2996
   - Laurens
   - Netherlands
-  - 2 years till software development HBO
   - always bored w/o motivation to do things
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me:
