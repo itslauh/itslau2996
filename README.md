@@ -2,7 +2,7 @@
   - Laurens
   - Netherlands
   - always bored w/o motivation to do things
-- 🌱 I’m currently learning Javascript
+- 🌱 Currently wanting to do something with api's but nah
 - 📫 How to reach me:
     - Discord (Itslauh#3979)
     - Thats about it tho lmao
