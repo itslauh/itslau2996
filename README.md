@@ -4,7 +4,7 @@
   - always bored w/o motivation to do things
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me:
-    - Discord (Itsme#3979)
+    - Discord (Itslauh#3979)
     - Thats about it tho lmao
 
 <!---
