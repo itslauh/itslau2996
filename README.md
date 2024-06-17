@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itslau2996
   - Laurens
   - Netherlands
-- 🌱 Currently wanting to do something with api's
 - 📫 How to reach me:
     - wezellaurens@outlook.com
     - itslauh (Discord)
