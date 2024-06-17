@@ -3,7 +3,8 @@
   - Netherlands
 - 🌱 Currently wanting to do something with api's
 - 📫 How to reach me:
-    - Discord (Itslauh)
+    - wezellaurens@outlook.com
+    - itslauh (Discord)
 
 <!---
 itslau2996/itslau2996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
