@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @itslau2996
+- 👋 Hi, I’m @itslauh
   - Laurens
   - Netherlands
-- 📫 How to reach me:
-    - wezellaurens@outlook.com
-    - itslauh (Discord)
+  - [my portfolio](https://itslauh.com)
+  - [contact](https://itslauh.com/contact)
 
 <!---
 itslau2996/itslau2996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
